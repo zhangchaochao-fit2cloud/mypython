@@ -1,0 +1,2 @@
+write, hello
+write, hello
